@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-pcanto",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo-canto/random-str-msg-pcanto.git" 
+  },
+  "keywords": [],
+  "author": "Pablo Canto <pablo.canto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+      "url":"https://github.com/pablo-canto/random-str-msg-pcanto/issues"
+  },
+  "homepage": "https://github.com/pablo-canto/random-str-msg-pcanto#readme",
+  "bin":{
+    "random-str-msg-pcanto": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
